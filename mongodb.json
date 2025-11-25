@@ -1,9 +1,6 @@
 // =============================
 // ========== USERS ============
 // =============================
-
-// tes
-
 db.users.insertOne({
   nama: "Nama User",
   email: "user@example.com",
